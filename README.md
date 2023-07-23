@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/40600040/128418449-79f69b98-8f81-4315-
   #### 3. Execute install script:
   ```
   cd /tmp
-  wget https://github.com/chepo92/OctoWrt/raw/main/scripts/2_octoprint_install.sh
+  wget https://raw.githubusercontent.com/chepo92/OctoWrt/octo-1.8.7/scripts/2_octoprint_install.sh
   chmod +x 2_octoprint_install.sh
   ./2_octoprint_install.sh
   ```
